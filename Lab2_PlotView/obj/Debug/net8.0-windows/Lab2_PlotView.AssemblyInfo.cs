@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab2_PlotView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cd13ae90f8bb9fa41b4de89ab88168af6cbccc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab2_PlotView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab2_PlotView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
